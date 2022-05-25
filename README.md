@@ -1,5 +1,6 @@
 # relevant_coursework_sw
 Relevant Coursework:
+
 CPSC 110 - Computation, Programs, and Programming
 
 CPSC 210 - Software Construction
