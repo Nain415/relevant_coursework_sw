@@ -1,5 +1,5 @@
 # relevant_coursework_sw
-Syllabi for the following courses:
+Syllabi for the following UBC courses:
 
 CPSC 110 - Computation, Programs, and Programming
 
